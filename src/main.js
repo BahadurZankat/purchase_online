@@ -5,6 +5,7 @@ import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
   <div>  
+    <div>THIS IS MY ECOMMERSE WEBSITE IS DEPLOYED</div>
     <a href="https://vite.dev" target="_blank">
       <img src="${viteLogo}" class="logo" alt="Vite logo" />
     </a>
